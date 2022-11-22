@@ -36,3 +36,31 @@ div.conteiner {
   margin-left: 35%;
   margin-right: 30%;
 }
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.button {
+  border-radius: 5em;
+  border-color: red;
+  width: 100px;
+  height: 50px;
+  transition-duration: 0.4s;
+}
+
+.button1 {
+  background-color: azure;
+  color: black;
+  border: 2px solid red;
+}
+
+.button1:hover {
+  background-color: blueviolet;
+}
+
+div.bcont {
+  margin-top: 50px;
+  margin-left: 45%;
+}
