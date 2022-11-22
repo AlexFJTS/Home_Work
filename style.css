@@ -2,6 +2,32 @@ body {
   background-color: azure;
 }
 
+h1 {
+  text-align: center;
+  color: brown;
+}
+
 p {
+  text-align: center;
   color: black;
+}
+
+td {
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  background-color: black;
+  color: yellowgreen;
+}
+
+table {
+  margin-left: 30%;
 }
